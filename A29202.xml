@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second letter unto a person of honour &amp; quality containing some farther animadversions upon the Bishop of Worcester's letter together with a brief answer unto all that one L'S---- intends to write.</title>
+            <author>D. E.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29202</idno>
+            <idno type="STC">Wing B423</idno>
+            <idno type="STC">ESTC R35300</idno>
+            <idno type="EEBO-CITATION">15236543</idno>
+            <idno type="OCLC">ocm 15236543</idno>
+            <idno type="VID">103250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103250)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1139:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second letter unto a person of honour &amp; quality containing some farther animadversions upon the Bishop of Worcester's letter together with a brief answer unto all that one L'S---- intends to write.</title>
+                  <author>D. E.</author>
+                  <author>Bagshaw, Edward, 1629-1671.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: D.E.</note>
+                  <note>Sometimes attributed to Edward Bagshaw--NUC pre-1956 imprints.</note>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103250:1" rendition="simple:additions"/>
+            <p>A Second LETTER unto a PERSON of Honour &amp; Quality, Containing ſome farther ANIMADVERSIONS upon the Biſhop of Worceſter's LETTER.</p>
+            <p>Together with a Brief Anſwer unto all that one <hi>L'S</hi>— intends to write.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:103250:2"/>
+            <opener>
+               <salute>Honourable and Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou much ſurprized me in your laſt, wherein you acquainted me, that the Letter I ſent you (which was the haſty iſſue of one or two leaſure hours, and therefore very unfit for Publick View) was by your ſelf, to prevent the trouble of tranſcrib<g ref="char:EOLhyphen"/>ing, communicated to the World; and the Reſult, you tell me, is, that many ſober Perſons (who thought it very fit that the Biſhop ſhould be a little humbled) are much ſatisfied by it, but the Biſhop himſelf ſo far concerned, that he hath em<g ref="char:EOLhyphen"/>ployed one <hi>L'S</hi> — to anſwer it. Truly, Sir, I am ſo taken with this laſt part of your News, that, inſtead of proſecuting my reſentments againſt the Reverend Biſhop (which nothing but Publick conſiderations made me take up (I now begin to pity him; and am heartily ſorry he ſhould be driven to ſo deſpe<g ref="char:EOLhyphen"/>rate a ſhift, as that, for want of better Champions, he is forced to commit his Cauſe to the Patronage of ſuch a Pen, whoſe Defence will more diſhonour him than the ſharpeſt Ac<g ref="char:EOLhyphen"/>cuſation. For who that knows any thing of Civility and Learning, doth not know, that the Character you give of that <hi>L'S</hi>—is not more ſharp than ſerious, when you call him a Perſon ſo loſt to all good Breeding, of ſo forfeited, ſo undone a Reputation in point of meer Morality, that for a Biſhop, ſo much as to countenance him, is a crime which ſome Coun<g ref="char:EOLhyphen"/>cels have pronounced an <hi>Anathema</hi> againſt; but to employ him, and to think, that either he is fit to manage ſuch Nice Points as that Letter glanceth upon; or that ſuch indigeſted ſtuff as he muſt needs diſgorge, will not create a <hi>Nauſea</hi> and
+<pb n="2" facs="tcp:103250:3"/>Loathing in all Sober Readers, is altogether as improper, as if the Biſhop ſhould ſet (to uſe a Phraſe which that Gentle<g ref="char:EOLhyphen"/>man underſtands) <hi>a Hog to play upon his Organs;</hi> or appoint a Scavenger to waſh his Surplice; the very attempting of which would betray, that he loved neither Muſick nor Clean<g ref="char:EOLhyphen"/>lineſs.</p>
+            <p>I muſt confeſs Sir, I am very tender of the Biſhops Repu<g ref="char:EOLhyphen"/>ration, and there is yet a poſſibility for him to recover his cre<g ref="char:EOLhyphen"/>dit again; for though he be a little Angry, yet the World muſt needs acknowledge, that he is a plain dealing man; ſince his Dudgeon phraſe of <hi>this is the Truth, <note place="margin">Pag. 5.</note> the whole Truth, and no<g ref="char:EOLhyphen"/>thing but the Truth,</hi> with ſuch kind of Home-ſpun, Harmleſs Elegancies that are ſcattered in his Letter, Savour very much of the old <hi>Engliſh</hi> Breeding, and call to mind the Trunk-Breeches and Wooden Daggers of our Anceſtors; who, I believe, ſpake all in the ſame uncounterfeit ſtile, which it well becomes a Biſhop, who loves Antiquity, to imitate: But for him now to grow weary of this Primitive ſimplici<g ref="char:EOLhyphen"/>ty, to ſuſpect his own ſtrength, and to entruſt <hi>Mounſieur Le Friske</hi> the Morice-dancer to undertake his Quarrel; to chuſe one for his Champion, who hath been a Fidler in all Governments, and would have been a Fidler to the worſt of them (for which end he knows how many pitiful Legs and Faces he made, to ſcrape acquaintance with the Tyrant <hi>Oli<g ref="char:EOLhyphen"/>ver</hi>) for him now to be ſuddenly advanced ſo much beyond his Art, will run the poor man into a dangerous <hi>Vertigo;</hi> and in the mean while much diſcredit the Biſhops Cauſe, as if he could get none to maintain it but this common Barreter, this Mercenary Songſter, that for two crowns more will change his Note, and rail againſt his Patron.</p>
+            <p>Tins, Sir, and, if poſſible, much more low and mean being my opinion of that Whiffling and Thin ſouled Adverſary you mention, give me leave to tell you, that I am ſo little
+<pb n="3" facs="tcp:103250:3"/>concerned in any thing he intends to write, that, ſince you re<g ref="char:EOLhyphen"/>ſolved to divulge the Letter I ſent you, I am ſorry you did not likewiſe publiſh my Name to the World too; that ſo, another, whom, as you tell me, he deſignes to fall upon, might not, upon Miſtake, have the Credit of his Calumnies; ſince every Reproach from him (who hath not let any thing Sa<g ref="char:EOLhyphen"/>cred whether Perſon or Doctrine, eſcape his venomous Pasquils) I look upon as a Signal Mark of Honour, beyond what any other Epitaph can give me. As when men ſcatter Dung up<g ref="char:EOLhyphen"/>on a Garden, the Flowers grow more Fair and Fragrant ever after; ſo were I ambitions of a Name, I think I could not more ſpeedily procure it among all good men, then by entreat<g ref="char:EOLhyphen"/>ing that <hi>L'S</hi>—to appear againſt me.</p>
+            <p>As therefore, Sir, you love my Credit, manage this Deſign for me, and promote the Work as much as you can; and by divulging my true Name, let not any Jot of the Com<g ref="char:EOLhyphen"/>mendation he deſignes me, be derived upon that Gentleman you mention, whoſe Vein, if I miſtake not, lies in another way. However, Sir, if there be no Help, but the Innocent muſt ſuffer, pray think ſo Nobly of me, as that I do religi<g ref="char:EOLhyphen"/>ouſly intend to follow your Advice, and not offer to anſwer one, who would fain be Anſwered, that he might appear Conſiderable. I will not, Sir, by taking any notice of him, ſuffer him to Rail himſelf into Reputation: But as hitherto, with all his little <hi>Witticiſmes,</hi> and Twenty <hi>Good morrows</hi> (to ſhew what Trade he drives) he could never gain ſo much Re<g ref="char:EOLhyphen"/>ſpect from any, as to deſerve a Confutation; ſo ſhall I let him paſs ſtill, like <hi>Beſſus</hi> in the Comedy, ſecure in his own Want of Worth, and by that, ſafe from Cenſure. And thus, Sir, I diſmiſs that Puny Authour, unto his Learned Labours, of which, you tell me, he is now lying in; and if there be any vertue in Sack (for he drinks and writes in the ſame mea<g ref="char:EOLhyphen"/>ſure, only with this Difference, that what goes in Wine,
+<pb n="4" facs="tcp:103250:4"/>comes out Water) the women of <hi>Turnhall-Street</hi> ſhall not long be unfurniſhed of a Pamphlet.</p>
+            <p>But, Sir, to conclude with ſomthing more ſerious, I can aſſure you, that I am perfectly reconciled to the Biſhop, and will point him out a Fair and Noble way of righting himſelf. For, ſetting aſide thoſe Merry Paſſages in my Letter, which his too much Heat gave but too juſt an Occaſion for, I give you free Leave to acquaint both him and the world, that I intend to make him an Acknowledgment as ſubmiſs as any Canon enjoynes, if he will either by Writing, or Conference make good any of theſe Poſitions, which he aſſerts in his Book, and againſt which, I have briefly ſubjoyned my Rea<g ref="char:EOLhyphen"/>ſons.</p>
+            <p n="1">Poſ. 1. <hi>That Monarchy cannot conſiſt without Epiſcopacy. Neg.</hi> For Monarchy was many 1000 years before Epiſcopacy, and therefore demonſtrably may be without it.</p>
+            <p n="2">Poſ. 2. <hi>That the Biſhop of</hi> Worceſter <hi>is the Sole and Imme<g ref="char:EOLhyphen"/>diate Paſtor of all the Congregations in his Dioceſs. Neg.</hi> For it is utterly againſt Scripture Rule, to extend the Name of Pa<g ref="char:EOLhyphen"/>ſtour, beyond the Flock which one actually feeds.</p>
+            <p n="3">Poſ. 3. <hi>That it is unlawful for any, though Ordained, to preach in the Biſhop of</hi> Worceſters <hi>Dioceſs, without his Licenſe. Neg.</hi> For Ordination is a ſufficient Licenſe, which runs as the A<g ref="char:EOLhyphen"/>poſtles Commiſſion did, <hi>Go preach the Goſpel;</hi> without being confined to Place, or needing a new Licenſe.</p>
+            <p n="4">Poſ. 4. <hi>That it is Lawful in the Worſhip of God, to enjoyn a ſmall thing under a great Penalty. Neg.</hi> For we have no War<g ref="char:EOLhyphen"/>rant for ſuch an Impoſition in the Word of God, which ought to be the ſole Rule of all Religious Worſhip.</p>
+            <p n="5">Poſ. 5. <hi>That the Church hath Power to exact Confeſſion and Recantation, for thoſe Crimes which the State hath pardoned. Neg.</hi> For, as to Coercive Power and Jurisdiction, there is no difference at all between the Church and State.</p>
+            <pb n="5" facs="tcp:103250:4"/>
+            <p n="2">Poſ. 6. <hi>That the Presbyterians</hi> (I ſuppoſe, he means, not Impoſers of their own Formes, but barely Diſſenters from thoſe Impoſed by others) <hi>are all ſeditious. Neg.</hi> For it is againſt their publick Confeſſion of Faith; which, as the 39 Articles, and Church-Canons are of the Epiſcopal, ſo that ought to be the Teſt of the Presbyterian Perſwaſion.</p>
+            <p>Thus, Sir, You ſee I am willing to reduce this Controver<g ref="char:EOLhyphen"/>ſie unto a Rational and Calm way of Debate, and if the Bi<g ref="char:EOLhyphen"/>ſhop, or any ſober Perſon for him, will undertake to maintain, either all, or any of the forementioned Poſitions, I will ei<g ref="char:EOLhyphen"/>ther make good my Negative, or declare my Converſion.</p>
+            <p>And becauſe, Sir, it is poſſible you may be asked, Who it is that thus boldly makes a Challenge unto one of our Learned Prelates? Your perſonal Knowledge of me can abundantly ſa<g ref="char:EOLhyphen"/>tisfie them, that he is very much for Biſhops, more for the King, moſt of all for the Purity and Peace of Religion; and were he not for all theſe, in their Due and Juſt Subordination, he thinks you would not own him for,</p>
+            <closer>
+               <salute>SIR, </salute>
+               <signed>Your moſt humble Servant, D. E.</signed>
+               <dateline>
+                  <date>Feb. 6. 1661.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>I Have juſt now received an Elaborate Piece, written by one that ſtiles himſelf <hi>J. C. M. D.</hi> a man very well read in the Modern Fathers, and of ſo Elegant and Facete a Style, that I am ſorry all the places in <hi>Gotham-Colledge</hi> are taken up, for this man would be an ex<g ref="char:EOLhyphen"/>cellent Preſident of it: I hope the Biſhop will be ſo Charitable as to provide a <hi>Sine-Cura</hi> for him, for his Employment in Phyſick will never be able to maintain him in Books and clean Linnen elſe; I wiſh nei<g ref="char:EOLhyphen"/>ther he may ever want ſuch able Champions, nor they befitting Penſi<g ref="char:EOLhyphen"/>ons.</p>
+            <p>
+               <hi>Adieu.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
